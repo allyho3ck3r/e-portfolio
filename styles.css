@@ -91,11 +91,11 @@ i:hover {
 }
 
 section:nth-child(even) {
-    background-color: rgba(10, 10, 10);
+    background-color: rgba(18, 18, 18);
 }
 
 section:nth-child(odd) {
-    background-color: rgb(8, 8, 8);
+    background-color: rgb(10, 10, 10);
 }
 
 .section__title {
