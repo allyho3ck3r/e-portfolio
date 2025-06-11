@@ -90,12 +90,42 @@ i:hover {
     font-family: 'GrandSlang-Roman', cursive;
 }
 
+.s__h1 {
+    color: #6030b1;
+    font-size: 25px;
+    font-weight: 900;
+}
+
+.s__h1--grey {
+    color: #696969;
+    font-size: 25px;
+    font-weight: 900;
+}
+
+.s__logo {
+    color: #6030b1;
+    font-size: 17px;
+    font-weight: 900;
+}
+
+.s__para {
+    color: #6030b1;
+    font-size: 15px;
+    font-weight: 900;
+}
+
+.s__h3 {
+    color: #fff;
+    font-size: 29px;
+    font-weight: 900;
+}
+
 section:nth-child(even) {
-    background-color: rgba(10, 10, 10);
+    background-color: rgba(18, 18, 18);
 }
 
 section:nth-child(odd) {
-    background-color: rgb(8, 8, 8);
+    background-color: rgb(10, 10, 10);
 }
 
 .section__title {
