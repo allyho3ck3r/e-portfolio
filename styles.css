@@ -49,11 +49,11 @@ p {
 }
 
 section:nth-child(even) {
-    background-color: rgba(28, 28, 28, 0.75);
+    background-color: rgba(20, 20, 20);
 }
 
 section:nth-child(odd) {
-    background-color: rgba(14, 14, 14, 0.75);
+    background-color: rgb(14, 14, 14);
 }
 
 .section__title {
